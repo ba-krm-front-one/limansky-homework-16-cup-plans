@@ -74,7 +74,7 @@ body{
 	font-size: 70px;
 	font-weight: 700;
 	line-height: 24px;
-	margin-bottom: 40px;
+	padding-bottom: 40px;
 
 }
 .ba-grid>div>p:last-child{
