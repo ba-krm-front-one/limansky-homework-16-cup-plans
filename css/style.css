@@ -88,6 +88,9 @@ body{
 	font-weight: 400;
 
 }
+.ba-grid>div:hover{
+	height: 500px;
+}
 /* Typography */
 a,
 input[type="submit"],
