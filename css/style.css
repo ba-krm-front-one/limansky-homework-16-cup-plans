@@ -66,6 +66,7 @@ body{
 
 .ba-grid>div>p:first-child{
 	/* Style for "$2" */
+	display: block;
 	width: 52px;
 	height: 53px;
 	color: #02995b;
@@ -73,13 +74,16 @@ body{
 	font-size: 70px;
 	font-weight: 700;
 	line-height: 24px;
+	margin-bottom: 40px;
 
 }
 .ba-grid>div>p:last-child{
+	display: block;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 26px;
 	font-family: Roboto;
+	text-align: center;
 }
 .ba-grid>div>h1{
 	font-family: 'Rambla', sans-serif;
